@@ -20,4 +20,21 @@ set priorities, and ensure timely resolution.
 - Scalable for small and large teams  
 ---
 ## 🏗️ Project Structure (Example)
+│── src/
+│ ├── data/
+│ ├── ui/
+│ ├── viewmodel/
+│ ├── utils/
+│── README.md
+│── build.gradle / package.json
+│── .gitignore
+## 🛠️ Tech Stack (Edit if needed)
+
+- Language: Kotlin / JavaScript  
+- Framework: Android (Jetpack Compose) / React  
+- Architecture: MVVM  
+- Backend: Firebase / Node.js / REST API  
+- Version Control: Git & GitHub  
+
+---
 
